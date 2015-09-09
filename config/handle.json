@@ -1,0 +1,28 @@
+{
+    "logic": [{
+        "description": "身份认证",
+        "type": "all",
+        "url": "/auth_client",
+        "path": "/auth/handle_auth_client"
+    }, {
+        "description": "获取服务器时间",
+        "type": "all",
+        "url": "/get_server_time",
+        "path": "/tool/handle_get_server_time"
+    }, {
+        "description": "获取邮件",
+        "type": "all",
+        "url": "/get_mail",
+        "path": "/mail/handle_get_mail"
+    }, {
+        "description": "设置反馈信息",
+        "type": "all",
+        "url": "/set_feedback",
+        "path": "/feedback/handle_set_feedback"
+    }, {
+        "description": "获取通用配置",
+        "type": "all",
+        "url": "/get_common",
+        "path": "/config/handle_get_common"
+    }]
+}

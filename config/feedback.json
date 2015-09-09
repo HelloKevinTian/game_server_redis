@@ -1,0 +1,12 @@
+{
+    "service": "Gmail",
+    "user": "faterace2014@gmail.com",
+    "pass": "abcd.1234",
+    "from": "faterace2014@gmail.com",
+    "to": "tianwen@chukong-inc.com",
+    "trigger_time_hour": 9,
+    "trigger_time_minutes": 0,
+    "time_interval": 60,
+    "send_directly": 0,
+    "switch": 1
+}
